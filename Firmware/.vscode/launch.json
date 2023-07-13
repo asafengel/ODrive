@@ -99,7 +99,8 @@
             "BMPGDBSerialPort": "${env:BMP_PORT}",
             "interface": "swd",
             "targetId": 1,
-            "armToolchainPath": "${env:ARM_GCC_ROOT}/bin/",
+            //"armToolchainPath": "${env:ARM_GCC_ROOT}/bin/",
+            "armToolchainPath": "C:\\Program Files (x86)\\GNU Tools Arm Embedded\\7 2018-q2-update\\bin",
             "cwd": "${workspaceRoot}"
         }
     ]

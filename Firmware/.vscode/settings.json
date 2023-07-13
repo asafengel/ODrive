@@ -1,6 +1,6 @@
 {
-    "C_Cpp.intelliSenseEngine": "Default",
-    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "C_Cpp.intelliSenseEngine": "default",
+    "C_Cpp.intelliSenseEngineFallback": "enabled",
     "files.associations": {
         "memory": "cpp",
         "utility": "cpp",
@@ -32,5 +32,6 @@
         "type_traits": "cpp",
         "typeinfo": "cpp",
         "algorithm": "cpp"
-    }
+    },
+    "C_Cpp.default.compilerPath": "c:\\Users\\asafe\\Desktop\\GIT\\fw\\ODrive\\Firmware\\.vscode\\c_cpp_properties.json"
 }
